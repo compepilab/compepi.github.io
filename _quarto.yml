@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "<img src='img/compepi.png' style='height: 50px;'>" #"CompEpi"
+  title: "<img src='img/compepialt.png' style='height: 50px;'>" #"CompEpi"
   navbar:
     left:
       - href: index.qmd
