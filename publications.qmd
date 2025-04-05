@@ -1,0 +1,11 @@
+---
+title: "Publications"
+bibliography: citations.bib
+csl: nature.csl
+nocite: |
+  @*
+---
+
+
+::: {#refs}
+:::

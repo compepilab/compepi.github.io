@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "<img src='img/compepi.png' style='height: 50px;'>" #"CompEpi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - people.qmd
+      - research_areas.qmd
+      - publications.qmd
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    page-layout: full
+    toc: true
+    toc-location: left
+    toc-title: ""
+
+

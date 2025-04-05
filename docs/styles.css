@@ -1,0 +1,17 @@
+/* css styles */
+
+#quarto-document-content {
+  width: 90% !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
+
+.callout-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%; /* Adjust the gap between callout blocks as needed */
+}
+
+.narrow {
+    width: 21% !important;
+}

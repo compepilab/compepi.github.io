@@ -1,0 +1,61 @@
+---
+pagetitle: "CompEpi Highlights"
+format: 
+  revealjs:
+    theme: dark
+    transition: slide
+    auto-slide: 5000  # Time in milliseconds (e.g., 5000ms = 5 seconds)
+    loop: true       # Enable looping
+    embed-resources: true
+    includes:
+      in-header: |
+        <style>
+          .reveal section {
+            font-size: 24px; /* Adjust the font size as needed */
+          }
+        </style>
+---
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/li2024comparing-fig1.png" style="height:65%;">
+  <p style="text-align: center;">
+    From <a href="https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/comparing-multiple-infection-control-measures-in-a-nursing-home-setting-a-simulation-study/53DEF3B7DFD1A222517197A61A6FC85C">Li et al. (2024)</a>: An agent-based simulation study, using real-world healthcare worker location data from a small nursing home, compared several strategies for mitigating infectious disease outbreaks like COVID-19 under varying conditions. Regular screening and isolation reduced the attack rate by 27%, while inter-resident contact restrictions were more effective, lowering it by 35%. Combining both interventions was highly effective. Reducing healthcare worker presenteeism had a moderate impact, but altering work schedules did not. The study suggests that while universal contact restrictions are very effective, restricting inter-resident contact to small groups, especially with weekly testing, could be a valuable strategy in high-risk situations to protect vulnerable nursing home residents.
+  </p>
+</div>
+```
+
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/zhong2024endtoend-figure1.png" style="height:50%;">
+  <p style="text-align: center;">
+    From <a href = "https://homepage.cs.uiowa.edu/~badhikari/assets/doc/papers/SteinerTreeICHI2024.pdf">Zhong et al. (2024)</a>: Detecting hidden asymptomatic spread in healthcare epidemics is challenging due to data limitations and the difficulty of linking individual risk with transmission. This paper introduces a new approach, framing asymptomatic case detection as a Prize Collecting Steiner Tree problem on a temporal network and solving it with deep Q-learning. Evaluations on simulated CDI and COVID-19 outbreaks in real healthcare networks show our method significantly outperforms existing approaches in identifying asymptomatic cases (up to 29.62%), leading to better prediction of symptomatic cases. A real CDI outbreak case study supports the high-risk nature of our detected asymptomatic cases.
+  </p>
+</div>
+```
+
+
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/miller2023comparison-fig2.png" style="height:50%;">
+  <p style="text-align: center;">
+    From <a href = "https://doi.org/10.1093/ofid/ofad413">Miller et al. (2023)</a>: This large matched case-control study used insurance claims data to evaluate the risk of community-associated Clostridioides difficile infection (CDI) across individual antibiotic types. Analyzing antibiotic prescriptions within 30 days prior to CDI diagnosis in 159,404 cases and 797,020 controls, the study identified clindamycin and later-generation cephalosporins as having the highest CDI risk, while minocycline and doxycycline had the lowest. The findings demonstrate significant variation in CDI risk among different antibiotics, which can inform antibiotic prescribing and stewardship strategies. Risk estimates were also found to be sensitive to the antibiotic exposure window considered.
+  </p>
+</div>
+```
+
+
+
+
+
+

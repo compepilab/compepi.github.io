@@ -1,0 +1,144 @@
+---
+title: "Research Areas"
+bibliography: citations.bib
+csl: chicago-custom.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+
+::: {.panel-tabset}
+
+
+## Healthcare Worker Behavior and Compliance
+
+Healthcare worker behavior and compliance are critical components in preventing healthcare-associated infections (HAIs). This theme includes studies that focus on monitoring hand hygiene practices, training healthcare workers, and using technology to improve compliance. Research in this area often involves the development and evaluation of automated systems for hand hygiene adherence, the impact of peer effects on compliance, and the use of mobile applications to record and provide feedback on hand hygiene practices. Understanding and improving healthcare worker behavior is essential for reducing the spread of infections within healthcare facilities.
+
+- @Fries09
+- @Hlady09b
+- @Babu10
+- @Hlady10
+- @Hlady10a
+- @Hornbeck11
+- @Ellingson11
+- @Thomas11
+- @Furgason14
+- @Galluzzi14
+- @Monsalve14
+- @Adhikari19
+
+
+## Social Network Analysis in Healthcare
+
+Social network analysis is a powerful tool for understanding the interactions and relationships within healthcare settings. This theme explores how social networks influence healthcare practices, such as vaccination uptake and infection control. Studies in this area examine the structure of healthcare worker contact networks, the small-world properties of these networks, and the application of network theory to optimize healthcare outcomes. By analyzing social networks, researchers can identify key influencers, optimize vaccination strategies, and develop interventions to improve healthcare practices and reduce the spread of infections.
+
+- @Polgreen08a
+- @Curtis09
+- @Curtis09a
+- @Curtis09b
+- @Curtis10
+- @Curtis10a
+- @Polgreen10a
+- @Polgreen15
+- @Polgreen16
+- @Sewell22b
+- @Sewell22
+
+
+## Infection Control and Disease Spread
+
+Infection control and disease spread are critical areas of research in healthcare epidemiology. This theme includes studies that focus on modeling and controlling the spread of infections within healthcare facilities. Research in this area often involves the use of sensor networks to study healthcare worker movements, the impact of architectural changes on pathogen dynamics, and the development of models to predict and mitigate the spread of infections. Understanding the dynamics of disease spread and implementing effective infection control measures are essential for preventing outbreaks and protecting patient health.
+
+- @Hlady09
+- @Hlady11a
+- @Hornbeck12
+- @Curtis13
+- @Miller14
+- @Simmering15
+- @Miller16b
+- @Jang19
+- @Sewell19c
+- @Sewell19d
+- @Kharkar20
+- @Liang20
+- @Sewell20
+- @Sewell20a
+- @Jang21
+- @Jang22
+- @Jang22b
+- @Justice22
+- @Justice22b
+- @Kiji22
+- @Jang23
+- @Li24
+
+
+## Surveillance and Monitoring
+
+Effective surveillance and monitoring are essential for early detection and control of infectious diseases. This theme encompasses research on various methods and technologies for disease surveillance, including the identification of surveillance site locations, the use of novel data sources like Craigslist and Wikipedia for disease tracking, and the optimization of sentinel surveillance networks. Studies in this area aim to improve the accuracy and efficiency of disease monitoring, enabling timely interventions and reducing the impact of outbreaks.
+
+- @Fairchild09
+- @Fairchild10
+- @Signorini10
+- @Fairchild11
+- @Fairchild13
+- @Fairchild15
+- @Fries10
+- @Fries11
+- @Fries11a
+- @Fries11b
+- @Fries12a
+- @Fries12b
+- @Miller18
+
+
+## Methodological Approaches
+
+Methodological approaches in healthcare research involve the development and application of innovative techniques to improve data analysis and outcomes. This theme includes studies on representation learning, computer vision, sensor networks, and statistical models for network data. Researchers in this area focus on creating new methods for analyzing complex healthcare data, developing algorithms for disease prediction, and improving the accuracy of healthcare models. By advancing methodological approaches, researchers can enhance the quality and impact of healthcare research.
+
+- @Herman09
+- @Hansen10
+- @Curtis10b
+- @Curtis11
+- @Curtis11a
+- @Rhomberg11
+- @Herman12
+- @Herman20
+- @Sewell20c
+- @Sewell20b
+- @Hasan20
+- @Hasan21
+- @Choudhuri23
+- @Choudhuri24
+- @Choudhuri25
+- @Pham24
+- @Li25
+
+
+
+## Clostridioides difficile Infections
+Clostridioides difficile infection (CDI) is a significant concern in healthcare settings due to its high morbidity and mortality rates. This theme includes research on the risk factors, transmission dynamics, and spatial clustering of CDI. Studies in this area aim to identify asymptomatic cases, understand the impact of healthcare exposures on CDI risk, and develop strategies to mitigate infection spread. By focusing on CDI, researchers can improve infection control practices and reduce the burden of this challenging healthcare-associated infection.
+
+- @Pai18
+- @Pai20
+- @Riaz20
+- @Jang20
+- @Miller21
+- @Miller22
+- @Miller23
+
+
+## Vaccination Strategies
+
+Vaccination strategies are crucial for preventing infectious diseases and protecting public health. This theme explores various approaches to optimize vaccination among healthcare workers and the general population. Research in this area includes targeted vaccine subsidies, vaccination games with peer effects, and the use of prediction markets to forecast influenza outbreaks. By developing effective vaccination strategies, researchers can enhance vaccine uptake, reduce the spread of infections, and improve overall health outcomes.
+
+- @Polgreen06
+- @Polgreen08
+- @Polgreen09
+- @Tassier10
+- @Tassier15
+
+
+
+:::

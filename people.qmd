@@ -1,0 +1,139 @@
+---
+title: "People"
+lightbox: true
+---
+
+
+
+::: {.panel-tabset}
+
+## Faculty
+
+
+::: {.callout-container}
+
+::: {.callout-tip .narrow icon=false}
+## BIJAYA ADHIKARI
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/adhikari-sm.png){fig-align="left" width=100%}
+
+**Assistant Professor, Department of Computer Science**
+
+Bijaya Adhikari's research focuses on data mining and machine learning, particularly on dynamical processes such as disease spread and misinformation on large networks. He is involved in AI for influenza forecasting, outbreak detection in hospitals, and network embedding. Bijaya received the prestigious NSF CAREER Award to develop online algorithms to combat Healthcare Associated Infections (HAIs) and Antimicrobial Resistance Organisms (AMROs) outbreaks. He has also received multiple travel awards for his contributions to conferences like KDD, SDM, and ICDM.
+
+:::
+
+
+
+::: {.callout-tip .narrow icon=false}
+## TED HERMAN
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/herman-sm.png){fig-align="left" width=100%}
+
+**Professor Emeritus, Department of Computer Science**
+
+Ted Herman specializes in distributed systems and sensor networks. His research includes distributed algorithms with self-stabilization properties and the development of energy-efficient, reliable sensor networks. Ted has been recognized for his pioneering work in peace studies and was instrumental in founding the Peace Studies Program at Colgate University.
+
+:::
+
+
+
+::: {.callout-tip .narrow icon=false}
+## AARON MILLER
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/amiller-sm.jpg){fig-align="left" width=100%}
+
+**Assistant Professor, Department of Epidemiology**
+
+Aaron Miller's research interests include disease surveillance, epidemiological methods, and infectious disease modeling. He uses large administrative data sources and novel data like smartphone-connected thermometers for real-time influenza forecasting. Aaron received the KL2 Scholar Award from the University of Iowa’s Institute for Clinical and Translational Science (ICTS) to improve the diagnosis and treatment of Parkinson’s disease.
+
+:::
+
+::: {.callout-tip .narrow icon=false}
+## SRIRAM PEMMERAJU
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/pemmaraju-sm.jpg){fig-align="left" width=100%}
+
+**Professor, Department of Computer Science**
+
+Sriram Pemmaraju's research is in theoretical computer science, focusing on distributed graph algorithms. He also works on disease diffusion, inference, and mitigation on contact networks within healthcare settings. Sriram received an NSF grant for his research project on the communication cost of distributed computation.
+
+:::
+
+:::
+
+
+<!-- Second row -->
+
+::: {.callout-container}
+
+
+::: {.callout-tip .narrow icon=false}
+## PHILIP POLGREEN
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/polgreen-sm.jpg){fig-align="left" width=100%}
+
+**Professor, Department of Internal Medicine**
+
+Philip Polgreen's research involves computational epidemiology, focusing on disease surveillance and identifying novel risk factors using structured and unstructured data. His work spans infectious and chronic diseases. Philip has been recognized as a Castle Connolly Top Doctor for ten consecutive years.
+
+:::
+
+
+::: {.callout-tip .narrow icon=false}
+## ALBERTO SEGRE
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/segre-sm.jpg){fig-align="left" width=100%}
+
+**Professor and Chair, Department of Computer Science**
+
+Alberto Segre's research focuses on distributed algorithms for discrete optimization problems, with applications in biological and health sciences. He co-founded the CompEpi group and works on epidemiological simulation and modeling. Alberto has received numerous awards, including the Fulbright Scholar, Faculty Scholar, and Outstanding Mentor Award.
+
+:::
+
+
+
+::: {.callout-tip .narrow icon=false}
+## JACOB SIMMERING
+
+![](https://myweb.uiowa.edu/dksewell/compepi/img/simmering-sm.jpg){fig-align="left" width=100%}
+
+**Assistant Professor, Department of Internal Medicine**
+
+Jacob Simmering's research examines the effects of environmental factors like pollution and weather on health outcomes, particularly pulmonary diseases. He uses large healthcare databases and remote sensing measurements. Jacob received the KL2 Scholar Award from the University of Iowa’s ICTS and has been honored with the Best Research Papers award by the Carver College of Medicine.
+
+:::
+
+
+
+::: {.callout-tip .narrow icon=false}
+## DANIEL K SEWELL
+
+![](https://myweb.uiowa.edu/dksewell/pathome/dan_sewell.jpg){fig-align="left" width=100%}
+
+**Associate Professor, Department of Biostatistics**
+
+Daniel Sewell's research includes statistical models for network data, clustering, and infectious disease modeling. He is interested in Bayesian statistics, statistical computation, and data visualization. Daniel has been inducted into the Delta Omega Honorary Society in Public Health and has received several awards within the UI College of Public Health, including the New Faculty Research Award, Junior Faculty Research Opportunity Award, and Faculty Teaching Award.
+
+:::
+
+:::
+
+
+
+
+
+
+
+
+## Students
+
+
+## Research Staff
+
+
+## Alumni
+
+
+:::
+
