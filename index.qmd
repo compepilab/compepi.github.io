@@ -15,4 +15,9 @@ Our research involves the use of computational tools to model, simulate, visuali
 ```
 
 
+<h1>Acknowledgments</h1>
+
+Support for our research is provided by the Centers for Disease Control and Prevention MInD HealthcareNetwork (Awards U01CK000531 and U01CK000594 with respective COVID-19 supplements) and a National Institutes of Health Clinical Translational Science Award (U54TR001356).
+
+
 
