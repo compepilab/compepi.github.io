@@ -109,7 +109,7 @@ Jacob Simmering's research examines the effects of environmental factors like po
 ::: {.callout-tip .narrow icon=false}
 ## DANIEL K SEWELL
 
-![](https://myweb.uiowa.edu/dksewell/pathome/dan_sewell.jpg){fig-align="left" width=100%}
+![](https://myweb.uiowa.edu/dksewell/compepi/img/sewell.jpg){fig-align="left" width=100%}
 
 **Associate Professor, Department of Biostatistics**
 
